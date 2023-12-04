@@ -37,4 +37,3 @@ python Script_6_Pscore_scimap.py --anndata output_dist_int/anndata_distance.h5ad
 Step 7: Test the data frame, including features, and group (y label) in columns. Groups include responders and non-responders.
 
 python Script_7_tTest.py --input Tumor.csv --output results.csv --group1 Responder --group2 Non_Responder --label Group
-![image](https://github.com/clinicalomx/From-Pixels-to-Insights/assets/152827690/c059c9ea-0c16-4c84-a3cb-9f40a0835fa7)
