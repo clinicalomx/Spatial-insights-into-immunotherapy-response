@@ -1,6 +1,4 @@
-# From-Pixels-to-Insights
-
-Readme
+# Usage
 
 Step 1: This script performs QC and normalization. The input is CSV from Qupath, and the output is anndata, which is normalised and QCed.
 
